@@ -1,0 +1,14 @@
+.adQuestionSequence {
+  width: 100%;
+  padding: 50px;
+}
+.saveButton {
+  margin-top: 30px;
+  display: flex;
+  justify-content: center;
+}
+
+.save {
+  width: 30%;
+  padding: 15px !important;
+}

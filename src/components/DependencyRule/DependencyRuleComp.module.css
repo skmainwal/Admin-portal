@@ -1,0 +1,43 @@
+.questionInput__title {
+  font-size: 18px;
+}
+.questionInput {
+  margin-bottom: 15px;
+}
+.chooseDependency {
+  display: flex;
+}
+
+.chooseCheckBox {
+  margin-right: 20px;
+  display: flex;
+  align-items: center;
+}
+
+.chooseCheckBox > div {
+  font-size: 18px;
+}
+
+.questionInput {
+  /* margin-bottom: 15px; */
+  margin-right: 10px;
+}
+
+.questionInput__title {
+  font-size: 18px;
+}
+.dependencyRule {
+  /* width: 35%; */
+  /* flex-wrap: wrap; */
+
+  display: flex;
+}
+
+.containsAndDoesNotContain {
+  display: flex;
+  justify-content: space-between;
+}
+.quesFlowAndOther {
+  display: flex;
+  justify-content: space-between;
+}

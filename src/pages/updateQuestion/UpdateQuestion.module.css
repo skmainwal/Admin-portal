@@ -1,0 +1,11 @@
+.updateQuestion {
+  width: 100%;
+  padding: 30px;
+  /* height: 86vh; */
+  /* background-color: lightgrey; */
+}
+
+.question__list {
+  overflow-y: auto;
+  height: 70vh;
+}

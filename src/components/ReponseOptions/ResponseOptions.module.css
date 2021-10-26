@@ -1,0 +1,26 @@
+.responseOptions {
+  width: 100%;
+  padding: 20px;
+  /* justify-content: center; */
+  /* border: 1px solid lightgrey; */
+}
+.title {
+  margin-bottom: 10px;
+  font-size: 22px;
+  text-align: center;
+  border-width: 100%;
+  border-bottom: 1px solid lightgrey;
+  padding: 10px;
+}
+
+.inputOption {
+}
+
+.optionList {
+  width: 100%;
+  margin-top: 20px;
+  overflow-y: auto;
+  height: 20vh;
+}
+.saveResponseOptions {
+}

@@ -1,0 +1,32 @@
+.addNewQuestion {
+}
+
+.question_id {
+  display: flex;
+  align-items: center;
+}
+
+.questionText {
+  padding: 5px;
+  text-align: center;
+  font-size: 18px;
+  border-width: 100%;
+  border-bottom: 1px solid lightgrey;
+  margin-bottom: 10px;
+}
+
+.inputBoxwithtitle {
+  margin-bottom: 15px;
+}
+
+.title {
+  font-size: 18px;
+}
+
+.dropDownWithTitle {
+  width: 100%;
+}
+.dropDowns {
+  display: flex;
+  justify-content: space-between;
+}

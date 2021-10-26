@@ -1,0 +1,28 @@
+/* .modal-backdrop {
+  background-color: #808080 !important;
+  opacity: 0.1 !important;
+} */
+/* .pop_modal {
+  background-color: #808080 !important;
+  opacity: 0.1 !important;
+} */
+.mainContent {
+  height: 100px;
+  display: flex;
+  justify-content: center;
+  color: red;
+}
+.confirmation_button {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  justify-content: space-evenly;
+}
+
+.button {
+  padding: 15px 70px !important;
+}
+
+.modal-content {
+  width: 80% !important;
+}

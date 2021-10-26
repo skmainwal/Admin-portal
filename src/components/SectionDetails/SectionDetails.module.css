@@ -1,0 +1,44 @@
+.sectionDetails {
+  /* border: 1px solid lightgray; */
+  /* border-bottom: 1px solid lightgray; */
+  width: 100%;
+  padding: 10px;
+}
+.sectionDetails__title {
+  font-size: 20px;
+  text-align: center;
+  margin-bottom: 15px;
+  border-bottom: 1px solid lightgray;
+  border-width: auto;
+  padding: 5px;
+}
+.sectionDetails__inputs {
+  width: 100%;
+  /* justify-content: space-between; */
+}
+
+.sectionInput {
+  width: 100%;
+  margin-left: 10px;
+}
+
+.sectionInputBox {
+  padding: 10px;
+  outline: none;
+  border-radius: 5px;
+  border: 1px solid lightgray;
+  width: 100%;
+}
+.sectionInputBox:focus {
+  box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+}
+.sectionDetails__inputBox {
+  display: flex;
+  justify-content: space-between;
+  /* margin-bottom: 15px; */
+  /* margin-left: 10px; */
+}
+
+.label {
+  font-size: 18px;
+}

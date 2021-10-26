@@ -1,0 +1,24 @@
+.showQuestion {
+  display: flex;
+  align-items: center;
+  width: 100%;
+  margin-bottom: 15px;
+  border-bottom: 1px solid lightgrey;
+  padding: 5px;
+}
+
+.showQuestion__question {
+  width: 70%;
+  display: flex;
+  align-items: center;
+}
+.questionId {
+  /* border-right: 1px solid lightgray; */
+  padding-right: 20px;
+}
+.showQuestion__editAndDeleteButton {
+  width: 30%;
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly;
+}

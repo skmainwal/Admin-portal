@@ -1,0 +1,11 @@
+.button {
+  /* width: 100%; */
+  padding: 10px 20px;
+  border-radius: 8px;
+  background-color: #86b8df;
+  outline: none;
+  border: none;
+}
+.button:hover {
+  box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+}

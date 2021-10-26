@@ -1,0 +1,19 @@
+.section {
+  width: 100%;
+}
+
+.input_with_dropdown,
+.inLanguage_cancerTypes {
+  display: flex;
+  align-items: center;
+  width: 100%;
+}
+
+.saveButton {
+  width: 100%;
+  text-align: center;
+}
+
+.save {
+  padding: 10px 80px !important;
+}

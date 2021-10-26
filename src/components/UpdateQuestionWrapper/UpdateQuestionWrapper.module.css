@@ -1,0 +1,35 @@
+.updateQuestionWrapper__dropDown {
+  display: flex;
+  border-bottom: 1px solid lightgrey;
+  padding-bottom: 10px;
+  /* position: relative; */
+  /* position: fixed; */
+
+  width: 100%;
+  margin-bottom: 15px;
+}
+
+.updateQuestionWrapper__mainContent {
+  width: 100%;
+  /* height: 80vh; */
+  /* background-color: lightgrey; */
+}
+.dropDown {
+  width: 40%;
+  display: flex;
+  /* justify-content: space-between; */
+}
+
+.fetchDetailsButton {
+  width: 100%;
+}
+
+.fetchButton {
+  /* padding: 10px !important; */
+  height: 50px !important;
+  margin-top: 27px !important;
+}
+
+/* .fetchQuestion {
+  padding: 5px;
+} */

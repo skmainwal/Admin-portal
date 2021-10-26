@@ -1,0 +1,29 @@
+.updateQuestionSequence {
+  width: 100%;
+  padding: 30px;
+}
+
+.questionSequence__mainContainer {
+  display: flex;
+  width: 100%;
+}
+
+.updateQuestionSequence__sequenceList {
+  width: 55%;
+  /* background-color: lightgrey; */
+  overflow-y: auto;
+  height: 72.5vh;
+}
+.updateQuestionSequence__questionModal {
+  width: 45%;
+  height: 72.5vh;
+  overflow-y: auto;
+  border-left: 1px solid lightgray;
+  /* background-color: lightpink; */
+}
+
+.saveButton {
+  margin-top: 50px;
+  display: flex;
+  justify-content: center;
+}

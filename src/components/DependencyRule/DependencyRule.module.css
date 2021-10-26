@@ -1,0 +1,23 @@
+.questionInput {
+  /* margin-bottom: 15px; */
+  margin-right: 10px;
+}
+
+.questionInput__title {
+  font-size: 18px;
+}
+.dependencyRule {
+  /* width: 35%; */
+  /* flex-wrap: wrap; */
+
+  display: flex;
+}
+
+.containsAndDoesNotContain {
+  display: flex;
+  justify-content: space-between;
+}
+.quesFlowAndOther {
+  display: flex;
+  justify-content: space-between;
+}

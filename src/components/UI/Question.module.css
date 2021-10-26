@@ -1,0 +1,19 @@
+.question {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  border-bottom: 1px solid lightgray;
+  padding: 10px;
+}
+.question__data {
+  margin-right: 15px;
+}
+
+.button {
+  margin-right: 10px !important;
+}
+
+.question__details {
+  display: flex;
+  align-items: center;
+}

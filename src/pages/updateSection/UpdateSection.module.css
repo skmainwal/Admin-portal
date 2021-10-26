@@ -1,0 +1,17 @@
+.updateSection {
+  width: 100%;
+  /* padding: 10px; */
+  display: flex;
+}
+
+.section_list {
+  width: 50%;
+  height: 75vh;
+  overflow-y: scroll;
+}
+.section_details {
+  width: 50%;
+  border-left: 1px solid lightgray;
+  height: 75vh;
+  padding: 10px;
+}

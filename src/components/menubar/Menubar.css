@@ -1,0 +1,14 @@
+.menuBar {
+  padding: 30px;
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.menuBar__dropDowns {
+  border: 1px solid black;
+  border-radius: 5px;
+  display: flex;
+  /* flex-direction: row-reverse; */
+  float: right;
+}

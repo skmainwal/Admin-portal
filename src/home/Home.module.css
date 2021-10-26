@@ -1,0 +1,72 @@
+.home {
+  display: flex;
+  width: 100%;
+  height: 100vh;
+}
+.menubar {
+  height: 10vh;
+  width: 100%;
+  /* border: 1px solid red; */
+  display: flex;
+  align-items: center;
+  background-color: #eeeeee;
+}
+.home__container {
+  /* display: flex; */
+  width: 100%;
+}
+
+.optionBar {
+  padding: 15px;
+  display: flex;
+  flex-direction: column;
+  width: 15%;
+  height: 100vh;
+  background-color: #3c3c3c;
+  color: white;
+  /* background-color: #2f261a; */
+}
+
+.light_turnOff {
+  padding: 15px;
+  display: flex;
+  flex-direction: column;
+  width: 15%;
+  height: 100vh;
+  background-color: #3c3c3c;
+  color: white;
+  /* border-right-color: white; */
+  height: 97vh;
+  border-right: 1px solid white;
+  /* background-color: lightgray; */
+  /* color: black;
+  border-left-color: white;
+  border-color: 1px solid white; */
+}
+.mainContainer {
+  width: 100%;
+  height: 89vh;
+  /* background-color: blanchedalmond; */
+}
+.mainContainer {
+  display: flex;
+  width: 100%;
+  /* justify-content: center; */
+}
+
+.home__emptySpace {
+  height: 10vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.vEngage_logo {
+  width: 40%;
+  height: 6vh;
+}
+
+.home__allQueriesButton {
+  /* height: 40vh; */
+  /* background-color: #3c3c3c ; */
+}
